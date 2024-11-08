@@ -1,5 +1,7 @@
 # This project provides a 3D CAD model of a refracting telescope, focusing on the main mechanical components.
 
+![Alt text](Telescope.JPG)
+
 ## Project Overview
 The model includes:
   - Objective Lens Housing
